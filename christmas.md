@@ -2,7 +2,7 @@
 
 - [Barebone Keycron Q10 - Black](https://www.keychron.com/products/keychron-q10-alice-layout-qmk-custom-mechanical-keyboard?variant=40247689674841)
 - [Car speakers - Polk Audio DB 652 (plus the free parts they list, 2016 Honda Fit EX)](https://www.crutchfield.com/p_107DB652/Polk-Audio-DB-652.html)
-- -[part 1](https://www.crutchfield.com/p_003HSB524/American-International-HSB524-Speaker-Mounting-Brackets.html)
+- - [part 1](https://www.crutchfield.com/p_003HSB524/American-International-HSB524-Speaker-Mounting-Brackets.html)
 - - [part 2](https://www.crutchfield.com/p_120727800/Metra-72-7800-Speaker-Wiring-Harness.html)
 - - [part 3 (why not, its free)](https://www.crutchfield.com/p_264MASTER/Crutchfield-Vehicle-specific-Instructions.html)
 - [egg rings](https://blackstoneproducts.com/products/8-pack-of-egg-rings)
