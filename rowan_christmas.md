@@ -9,3 +9,4 @@
 - Things for a sensory box. ie: "treasures" like samll animals etc that can be buried and searched for in rice, sand, etc
 - [StrideRite SR Tech Shoes - Size 8](https://www.striderite.com/collections/sr-tech)
 - [Disney Bunnies: Thumper's Fluffy Tail (A Touch-and-feel Book)](https://www.amazon.com/dp/1423104439/?coliid=I1P5DP72E6BQUG&colid=2SXLD5GLBAOC8)
+- [Eggs, kinda like these](https://www.target.com/p/dozen-eggs-interactive-play-food-gigglescape-8482/-/A-1006346059)
